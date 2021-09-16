@@ -1,0 +1,102 @@
+云数据库：rm-uf60nj0t33i3601vx3o.mysql.rds.aliyuncs.com	shi1557225637_
+
+
+github   	shi1557225637  	  shi1557225637
+
+
+oracle 账号  ：1557225637@qq.com   密码：Tg77755372.
+
+
+jenkins   admin  TG77755372
+
+postman  邮箱账号   shiyong@i9i8.com
+
+测试环境paypal：        1107671538@qq.com    dNb891208@
+
+正式环境账号：卡号：4246315301068944
+过期日：12/23
+卡主姓名：Yefeng Jiang
+Code:022
+账单地址：148 E Brokaw Rd. San Jose, CA 95112
+红包 ：forever6
+
+
+jenkins账号：test    aztest       https://j.opsfun.com/
+
+
+
+美餐账号： shiyong@i9i8.com    123456
+
+
+
+cms账号：qzhong     lb123456
+
+
+googleplay 内测包：  lilian5fu@gmail.com  116540wsm
+
+
+lego测试环境账号：qzhong    lb123456
+
+
+
+lego线上环境账号：danxiang.feng
+
+
+
+google账号：shiyong@i9i8.com             oP295620
+
+
+gethup账号：shiyong979796    shi15557225637
+
+
+线上数据库账号：jiayan    Jiayan123456
+
+
+
+wiki文档：https://wiki.digi800.com/pages/viewpage.action?pageId=2621743        shiyong     oP295620
+
+
+preview@tetx.com账号：preview@tetx.com         preview
+
+数据库mysql：             db-zt.opsfun.com   azazie   azazie
+
+lebbay为您创建了域账号:shiyong, 密码:oP295620,请在电脑上登录OC系统:https://oc.digi800.com。
+Knock账号:16628554195,Knock下载地址:https://knock.pddim.com/supplier/download。邮箱账号:shiyong@i9i8.com,密码同上
+,请在电脑上登录谷歌邮箱
+
+oc系统       shiyong          oP295620
+
+
+测试环境 ：https://ft9.azazie.com/all/bridesmaid-dresses?from_domain=ca              lebbay           passw0rd
+
+
+
+prd链接   hhttps://docs.google.com/spreadsheets/d/1X4UJLRuJ0VCxNDCUcjzgynslqInWWIR_7hvUofa2yO8/edit?ts=5ef9b60b#gid=664610680
+
+
+
+
+个人工号：200243
+
+-G "http://localhost/1.0/cart?for_checkout=omnis&showroom_id=officiis" \
+    -H "Content-Type: application/json" \
+    -H "Accept: application/json" \
+    -H "x-app: pc|android|ios|h5   请求平台" \
+    -H "x-token: 用户token" \
+    -H "x-project: azazie   项目名" \
+    -H "x-countryCode: US|CA 国家短码"
+ taojiang/桃酱  建发布分支
+
+
+滚动栏 legao 3环境  代码分支   feature/lhhu/8185_notificationScrollbar
+flash sale    legao 3环境  代码分支   feature/lhhu/7695_flashSale
+di wai le bao
+
+develop
+master
+
+preview@tetx.com
+
+
+测试邮箱
+folder@tetx.com    密码：y28Rbv55djtuwGd4K6mE
